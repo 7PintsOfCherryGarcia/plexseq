@@ -1,0 +1,68 @@
+For the above study four different libraries prepared of different individuals that are available in the European Nucleotide Archive (ENA). It can be accessed under the project number PRJEB39078(already demultiplexed)
+
+After the initial demultiplexing based not the 96 unique barcodes that were used, the following index files were used for the final demultiplexing using Plexseq. 
+
+More specifically:
+For MiSeq 010 samples that were in A1-H6 positions at the plate the following indices were used:
+CAGTCGAAT	TCACAGATG
+TCAGTCGAA	TCACAGATG
+CTCAGTCGA	TGCAGATGA
+
+And for samples that were in A7-H12 positions at the plate the following indices were used:
+CAGTCGAAT	CTCACAGAT
+TCAGTCGAA	TGCAGATGA
+CTCAGTCGA	TCACAGATG
+
+For MiSeq 024 samples that were in A1-H6 positions at the plate the following indices were used:
+CAGTCGAAT	TCACAGATG
+TCAGTCGAA	TCACAGATG
+CTCAGTCGA	TGCAGATGA
+
+And for samples that were in A7-H12 positions at the plate the following indices were used:
+CAGTCGAAT	CTCACAGAT
+TCAGTCGAA	TGCAGATGA
+CTCAGTCGA	TCACAGATG
+
+
+For MiSeq 046 samples that were in A1-H6 positions at the plate the following indices were used:
+CAGTCGAAT	ACTCACAGA
+TCAGTCGAA	CTCACAGAT
+CTCAGTCGA	TCACAGATG
+ACTCAGTCG	TGCAGATGA
+CAGTCGAAT	TCACAGATG
+TCAGTCGAA	ACTCACAGA
+CTCAGTCGA	ACTCACAGA
+ACTCAGTCG	CTCACAGAT
+CAGTCGAAT	CTCACAGAT
+CTCAGTCGA	TGCAGATGA
+
+And for samples that were in A7-H12 positions at the plate the following indices were used:
+CAGTCGAAT	CTCACAGAT
+TCAGTCGAA	TCACAGATG
+CTCAGTCGA	TGCAGATGA
+ACTCAGTCG	TCACAGATG
+CAGTCGAAT	TGCAGATGA
+TCAGTCGAA	TGCAGATGA
+CTCAGTCGA	CTCACAGAT
+ACTCAGTCG	ACTCACAGA
+TCAGTCGAA	ACTCACAGA
+ACTCAGTCG	TCACAGATG
+
+
+For MiSeq 083 samples that were in A1-H6 positions at the plate the following indices were used:
+CAGTCGAAT	ACTCACAGA
+TCAGTCGAA	CTCACAGAT
+CTCAGTCGA	TCACAGATG
+ACTCAGTCG	TGCAGATGA
+CAGTCGAAT	TCACAGATG
+TCAGTCGAA	ACTCACAGA
+CTCAGTCGA	ACTCACAGA
+
+And for samples that were in A7-H12 positions at the plate the following indices were used:
+CAGTCGAAT	CTCACAGAT
+TCAGTCGAA	TCACAGATG
+CTCAGTCGA	TGCAGATGA
+ACTCAGTCG	TCACAGATG
+ACTCAGTCG	CTCACAGAT
+TCAGTCGAA	TGCAGATGA
+CTCAGTCGA	CTCACAGAT
